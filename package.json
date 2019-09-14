@@ -1,6 +1,6 @@
 {
-  "name": "sandbox-hello-github-npm-package-registry",
-  "version": "1.0.0",
+  "name": "sandbox-hello-github-npm-package-registry_",
+  "version": "1.0.2",
   "bin": "index.js",
   "license": "MIT",
   "description": "My first GitHub Package Registry sample.",
