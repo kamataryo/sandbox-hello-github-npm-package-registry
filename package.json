@@ -4,7 +4,6 @@
   "bin": "index.js",
   "license": "MIT",
   "description": "My first GitHub Package Registry sample.",
-  "main": "index.js",
   "author": "kamataryo <mugil.cephalus+github.com@gmail.com>",
   "private": false
 }
