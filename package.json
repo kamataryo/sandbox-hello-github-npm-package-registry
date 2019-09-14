@@ -1,5 +1,5 @@
 {
-  "name": "@kamataryo/sandbox-hello-github-npm-package-registry",
+  "name": "sandbox-hello-github-npm-package-registry",
   "version": "1.0.0",
   "bin": "index.js",
   "license": "MIT",
